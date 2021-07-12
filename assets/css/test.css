@@ -11,7 +11,7 @@ body.green {
 p.style-white-center {
 	color: rgb(255,255,255);
 	text-align: center;
-	font-family: Garamond;
+	font-family: "Times New Roman", Times, serif;
 } 
 
 /* Color for Official ND Gold Text */
