@@ -4,20 +4,20 @@ body {
 }
 
 /* Color for White Text */
-p.style-white {
+p.style-white-center {
 	color: rgb(255,255,255);
 	text-align: center;
 	font-family: Garamond;
 } 
 
 /* Color for Official ND Gold Text */
-p.style-gold {
+p.style-gold-center {
 	color: rgb(201,151,0);
 	text-align: center;
 } 
 
 /* Color for Official ND Green */
-p.style-green {
+p.style-green-center {
 	color: rgb(10,132,61);
 	text-align: center;
 } 
