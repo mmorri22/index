@@ -1,18 +1,22 @@
+/* Background Official ND Blue */
 body {
   background-color: #0C2340;
 }
 
+/* Color for White Text */
 p.style-white {
 	color: #FFFFFF;
 	text-align: center;
 	font-family: Garamond;
 } 
 
+/* Color for Official ND Gold Text */
 p.style-gold {
 	color: #C99700;
 	text-align: center;
 } 
 
+/* Making a p class with 300% increase in font size */
 p.large {
 	font-size: 300%;
 }
