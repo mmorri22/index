@@ -5,7 +5,7 @@
 		<title>Matthew Morrison | University of Notre Dame</title>
   		<meta charset="UTF-8">
   		<meta name="description" content="Computer Science 61B: Data Structures">
-  		<meta name="keywords" content="CS61B, Computer Science, CS, 61B, Data Structures, Josh Hug, Berkeley, EECS">
+  		<meta name="keywords" content="CSE 20133, CSE 20312, Computer Science, 20312, Data Structures, Intro to C/C++ Programming, Matthew Morrison, Notre Dame, CSE">
   		<meta name="viewport" content="width=device-width, initial-scale=1">
 
   		<link rel="shortcut icon" type="image/x-icon" href="https://onmessage.nd.edu/assets/188821/fullsize/athletics_monogram1.jpg">
