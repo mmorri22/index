@@ -1,18 +1,24 @@
 /* Background Official ND Blue */
 body {
-  background-color: #0C2340;
+  background-color: rgb(12,35,64);
 }
 
 /* Color for White Text */
 p.style-white {
-	color: #FFFFFF;
+	color: rgb(255,255,255);
 	text-align: center;
 	font-family: Garamond;
 } 
 
 /* Color for Official ND Gold Text */
 p.style-gold {
-	color: #C99700;
+	color: rgb(201,151,0);
+	text-align: center;
+} 
+
+/* Color for Official ND Green */
+p.style-green {
+	color: rgb(10,132,61);
 	text-align: center;
 } 
 
