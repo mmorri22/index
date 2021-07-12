@@ -26,9 +26,9 @@ p.style-green-center {
 	text-align: center;
 } 
 
-/* Making a p class with 200% increase in font size */
+/* Making a p class with 300% increase in font size */
 p.large {
-	font-size: 200%;
+	font-size: 400%;
 }
 
 /* Outline for Blue filled, Gold Outline, White Text */
@@ -43,10 +43,4 @@ p.outline_bgw {
 	font-family: "Times New Roman", Garamond, serif;
 	text-align: center;
 	width: 100%;
-}
-
-#IrishClub {
-  left: 0px;
-  width: 46px;
-  background: url('https://onmessage.nd.edu/assets/189368/580x/spirit_marks_examples_1.jpg') 0 0;
 }
