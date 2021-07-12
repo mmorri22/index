@@ -1,6 +1,10 @@
 /* Background Official ND Blue */
-body {
+body.blue {
   background-color: rgb(12,35,64);
+}
+
+body.green {
+  background-color: rgb(10,132,61);
 }
 
 /* Color for White Text */
