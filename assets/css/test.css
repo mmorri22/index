@@ -30,9 +30,9 @@ p.style-green-center {
 	text-align: center;
 } 
 
-/* Making a p class with 300% increase in font size */
+/* Making a p class with 200% increase in font size */
 p.large {
-	font-size: 300%;
+	font-size: 200%;
 }
 
 /* Outline for Blue filled, Gold Outline, White Text */
