@@ -19,7 +19,6 @@
   		<script src="https://sp21.datastructur.es/assets/js/script.js" type="text/javascript"></script>
   		<script src="https://sp21.datastructur.es/assets/js/cheet.min.js" type="text/javascript"></script>
   
-  		<link rel="shortcut icon" type="image/x-icon" href="https://sp21.datastructur.es/assets/img/favicon.ico">
         <link rel="stylesheet" type="text/css" href="https://sp21.datastructur.es/assets/css/index.css">
         <link rel="stylesheet" type="text/css" href="https://sp21.datastructur.es/assets/css/fullcalendar.min.css">
         <link rel="stylesheet" type="text/css" href="https://sp21.datastructur.es/assets/css/calendar.css">
