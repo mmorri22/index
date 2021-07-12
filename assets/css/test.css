@@ -1,3 +1,7 @@
+body {
+  background-color: linen;
+}
+
 p.style-white {
 	color: #FFFFFF;
 	text-align: center;
