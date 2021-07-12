@@ -16,7 +16,7 @@
 	</head>
 	<body>
 
-		<p id="style-blue">Hello World!</p>
+		<h1 id="style-blue">Hello World!</h1>
 		<p id="style-gold">This is the Gold Line</p>
 
 	</body>
