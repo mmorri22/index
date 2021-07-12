@@ -33,8 +33,12 @@ p.style-green-center {
 } 
 
 /* Making a p class with 200% increase in font size */
-p.large {
+p.medium {
 	font-size: 200%;
+}
+
+p.large {
+	font-size: 300%;
 }
 
 /* Outline for Blue filled, Gold Outline, White Text */
@@ -45,7 +49,6 @@ p.outline_bgw {
 	background-color: rgb(12,35,64);
 	border-radius: 5px;
 	color: rgb(255,255,255);
-	/* margin-top: 100px; */
 	font-family: "Times New Roman", Garamond, serif;
 	text-align: center;
 	width: 100%;
