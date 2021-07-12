@@ -11,7 +11,7 @@
   		<link rel="shortcut icon" type="image/x-icon" href="https://onmessage.nd.edu/assets/188821/fullsize/athletics_monogram1.jpg">
 
  		<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
-  		<link rel="stylesheet" type="text/css" href="https://sp21.datastructur.es/assets/css/common.css">
+  		<link rel="stylesheet" type="text/css" href="/assets/css/common.css">
   		<link rel="stylesheet" type="text/css" href="https://sp21.datastructur.es/assets/css/font-awesome.min.css">
   		<link rel="stylesheet" type="text/css" href="https://sp21.datastructur.es/assets/css/sunburst.css">
 
