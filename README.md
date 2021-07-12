@@ -41,24 +41,184 @@
 
 	</head>
     
-    <body>
-      <div id="navbar" class="navbar-top">
-      <div id="navitems">
-          <a href="https://sp21.datastructur.es/index.html"><div class="navitem">Main</div></a>
-          <a href="https://sp21.datastructur.es/about.html"><div class="navitem">Course Info</div></a>
-          <a href="https://sp21.datastructur.es/staff.html"><div class="navitem">Staff</div></a>
-          <a href="https://sp21.datastructur.es/resources.html"><div class="navitem">Resources</div></a>
-          <a href="https://sp21.datastructur.es/exams.html"><div class="navitem">Exams</div></a>
-      <!--<a href="https://beacon.datastructur.es" target="_blank"><div class="navitem">Beacon <i class="fa fa-external-link" aria-hidden="true"></i></div></a>-->
-          <!--<a href="" target="_blank"><div class="navitem">Piazza <i class="fa fa-external-link" aria-hidden="true"></i></div></a>-->
+<body id="athletics-branding" class="athletics-branding athletics-branding page-default nav-top-false " vocab="https://schema.org/">
 
-          <a href="http://beacon.datastructur.es/" target="_blank"><div class="navitem">Beacon <i class="fa fa-external-link" aria-hidden="true"></i></div></a>
-          <a href="https://edstem.org/us/courses/3735/discussion/" target="_blank"><div class="navitem">Ed <i class="fa fa-external-link" aria-hidden="true"></i></div></a>
-          <a href="https://oh.datastructur.es" target="_blank"><div class="navitem">OH Queue <i class="fa fa-external-link" aria-hidden="true"></i></div></a>
+<!-- Skip links -->
+<nav class="skip-links" aria-label="Skip links">
+  <ul>
+    <li><a href="#content" accesskey="C" title="Skip to content = C">Skip To Content</a></li>
+    <li><a href="#nav" accesskey="S" title="Skip to navigation = S">Skip To Navigation</a></li>
+    <li><a href="#search-input-nav-top">Skip To Search</a></li>
+  </ul>
+</nav>
+
+<!-- Mobile Drawer -->
+<div class="nav-mobile" id="nav-mobile"></div>
+
+<div class="wrapper" id="wrapper">
+
+  <!-- Site Header -->
+  <header id="header" class="site-header">
+    <p class="mark-header"><a href="https://www.nd.edu/">University of Notre Dame</a></p>
+    <div class="site-title-group has-tagline">
+      
+      <p id="site-title" class="site-title"><a href="/" accesskey="1" title="Homepage shortcut key = 1">On Message</a></p>
+      
+      <p class="site-tagline">Elements of the Notre Dame Brand</p>
+    </div>
+
+    <!-- Header Search/Nav  -->
+    <div class="nav-header">
+      <div class="nav-search-wrapper">
+        <form method="get" action="/search/" id="search-nav-top" class="search-form" role="search" aria-label="Site search">
+          <input type="hidden" name="as_sitesearch" value="onmessage.nd.edu">
+          <input type="hidden" name="entqr" value="3">
+          <input type="search" name="q" class="search-input" id="search-input-nav-top" placeholder="Search this site" title="type your search term" aria-label="Site Search input">
+          <button class="search-button" type="submit" aria-label="Search"><svg class="icon" data-icon="search" width="16" height="16"><use xlink:href="#icon-search"></use></svg></button>
+        </form>
       </div>
+    </div>
+
+    <!-- Mobile Navbar -->
+    <div class="nav-mobile-util">
+      <ul class="no-bullets">
+        <li><a href="/"><svg class="icon" data-icon="home" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-home"></use></svg> Home</a></li>
+        <li><button class="btn-search search-toggle"><svg class="icon" data-icon="search" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search"></use></svg> Search</button>
+        <li>
+          <a href="#nav" class="nav-menu nav-skip">
+          <svg version="1.1" class="icon" xmlns="http://www.w3.org/2000/svg"  width="16" height="16" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 20" xml:space="preserve">
+            <line class="ni ni1" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="0.98" y1="2" x2="18.94" y2="2"/>
+            <line class="ni ni2" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="0.98" y1="8.69" x2="18.94" y2="8.69"/>
+          </svg>
+          <span class="ni ni3">Menu</span>
+        </a>
+        </li>
+      </ul>
+      <div class="nav-search-wrapper">
+        <form method="get" action="/search/" id="search-navbar-mobile" class="search-form" role="search" aria-label="Site search">
+          <input type="hidden" name="as_sitesearch" value="onmessage.nd.edu">
+          <input type="hidden" name="entqr" value="3">
+          <input type="search" name="q" class="search-input" id="search-input-navbar-mobile" placeholder="Search this site" title="type your search term" aria-label="Site Search input">
+          <button class="search-button" type="submit" aria-label="Search"><svg class="icon" data-icon="search" width="16" height="16"><use xlink:href="#icon-search"></use></svg></button>
+          <button class="search-close search-toggle" aria-label="Close Search"><svg class="icon" data-icon="close" width="16" height="16"><use xlink:href="#icon-close"></use></svg></button>
+        </form>
+      </div>
+    </div>
+  </header>
+
+  <!-- Site Content -->
+  <div id="content" class="site-content">
+
+  <div class="page-header"></div>
+  <main class="page-main">
+    <ol class="breadcrumbs"><li><a href="/">Home</a> &rsaquo; </li><li>Athletics Branding</li></ol>
+    <h1 class="page-title">Athletics Branding</h1>
+    <div class="grid grid-md-3">
+      <div class="page-primary span-md-2">
+        <p>Athletics at the University of Notre Dame qualifies as one of the most recognizable, popular and powerful brands found anywhere in sports. To protect and improve the University’s athletics brand equity, it is important that all those who communicate on behalf of Notre Dame do so in consistently strong manners across all platforms.</p>
+<p>This document provides detailed information required to ensure the Notre Dame athletics brand—including official <a href="/athletics-branding/colors/">colors</a>, <a href="/athletics-branding/logos/">marks</a> and <a href="/athletics-branding/typography/">typography</a>—is presented appropriately while utilizing any and all communication channels.</p>
+<p><a class="btn btn-cta" href="/assets/192682/brand_guidelines_v3_1.pdf"><span class="icon" data-icon="file-pdf-o"></span> University of Notre Dame Athletics Brand Standards</a></p>
+<hr>
+<p class="image-right"><img alt="Athletics Monogram 1" src="/assets/188821/fullsize/athletics_monogram1.jpg" title="Athletics Monogram 1"></p>
+
+<h2>Primary Brand Assets Overview</h2>
+
+<p>The <a href="/athletics-branding/logos/monogram/">Notre Dame monogram</a> and the primary color palette of blue and gold are the primary identifiers for Notre Dame. They should always be used to represent the university in the most visible and high profile brand touchpoints. The Notre Dame monogram and the primary color palette of blue and gold represent the tradition, legacy, and excellence of our athletic program. Use the monogram and our colors to communicate the passion of our community – one bridled in faith and in pursuit of the highest standards.</p>
+
+<ul>
+<li>Official team uniforms</li>
+<li>Athletic playing fields, like the basketball court or hockey rink</li>
+<li>Formal department communication</li>
+<li>Header of a website</li>
+<li>Graphic elements in broadcasts</li>
+</ul>
+
+<h2>Spirit Branding Assets Overview</h2>
+
+<p class="image-default"><img alt="Spirit Marks Examples 1" src="/assets/189368/580x/spirit_marks_examples_1.jpg" title="Spirit Marks Examples 1"></p>
+
+<p>The <a href="/athletics-branding/logos/leprechaun/">leprechaun</a>, <a href="/athletics-branding/wordmarks/">wordmark</a>, and the <a href="/athletics-branding/colors/">spirit palette</a> of blue, gold and green represent the fighting spirit of Notre Dame. Use the mark and colors to communicate our determination, grit and underdog mentality. These brand assets serve as inspiring visual elements for Notre Dame in competitive scenarios and should be used to instill passion and a competitive spirit among our audiences. The green shamrock is a secondary spirit mark representing the Irish heritage of Notre Dame. While the shamrock is not our primary identifier, it allows us to reference a part of our history (both the shamrock and its green color are clear references to Irish heritage). Therefore, it should never be used as a standalone identifier for Notre Dame and should be used sparingly.</p>
+      </div>
+      <div class="page-aside"><h3>NOTE:</h3>
+<p>The assets featured in this section are to be used solely by the University of Notre Dame Athletics Department. They are not intended to be used in academic or administrative communications.</p>
+<p>In the rare instance that an Athletics asset could be considered for use by an academic or administrative entity, that entity must first request use of the branding element(s) by <a href="mailto:FIM@nd.edu">contacting Fighting Irish Media</a>.</p></div>
+    </div>
+  </main>
+  <div class="page-sidebar">
+    <nav id="nav" class="nav-site nav-full" role="navigation" aria-label="Primary navigation"><ul class="nav-level-1 depth_1"><li class="first nav-72888"><a href="/">Home</a></li><li class="li-has-children nav-72890"><a href="/university-branding/">University Branding</a></li><li class="li-has-children nav-72908"><a href="/academic-branding/">Academic Branding</a></li><li class="li-has-children nav-72919"><a href="/administrative-branding/">Administrative Branding</a></li><li class="active li-has-children nav-72923"><a href="/athletics-branding/" aria-current="page" class="current current-last">Athletics Branding</a><ul class="nav-level-2 depth_2"><li class="first nav-72924"><a href="/athletics-branding/colors/">Colors</a></li><li class="li-has-children nav-72925"><a href="/athletics-branding/logos/">Logos &amp; Spirit Marks</a></li><li class="nav-72930"><a href="/athletics-branding/typography/">Typography</a></li><li class="li-has-children nav-72931"><a href="/athletics-branding/wordmarks/">Wordmarks</a></li><li class="last protected nav-73344"><a href="/athletics-branding/athletics-downloads/">Athletics Downloads</a></li></ul></li><li class="protected nav-72932"><a href="/downloads/">Downloads</a></li><li class="li-has-children nav-72933"><a href="/policies-and-guidelines/">Policies and Guidelines</a></li><li class="last nav-72938"><a href="/campus-communicators-directory/">Campus Communicators Directory</a></li></ul></nav>
+  <nav class="nav-section nav-site" role="navigation" aria-label="Section navigation">
+    <div id="nav_sub"><ul class="nav-level-1 depth_2"><li class="first nav_sub-72924"><a href="/athletics-branding/colors/">Colors</a></li><li class="li-has-children nav_sub-72925"><a href="/athletics-branding/logos/">Logos &amp; Spirit Marks</a></li><li class="nav_sub-72930"><a href="/athletics-branding/typography/">Typography</a></li><li class="li-has-children nav_sub-72931"><a href="/athletics-branding/wordmarks/">Wordmarks</a></li><li class="last protected nav_sub-73344"><a href="/athletics-branding/athletics-downloads/">Athletics Downloads</a></li></ul></div>
+  </nav>
+
+  </div>
   </div>
 
+  <!-- Site Footer -->
+  <footer id="footer" class="site-footer">
+    <div class="footer-org" typeof="Organization" resource="#siteorg">
+      <meta property="parentOrganization" resource="#parentorg" content="University of Notre Dame">
+      <ul class="footer-breadcrumbs">
+        <li><a href="https://opac.nd.edu/">Office of Public Affairs and Communications</a></li>
+      </ul>
+      <p><a href="/" class="site-link" property="url"><span property="name">On Message</span></a></p>
+      <div class="footer-contacts">
+        <p class="contact-info">
+          <span class="address" property="address" typeof="PostalAddress">
+            <span property="streetAddress">500 Grace Hall</span><br> 
+            <span property="addressLocality">Notre Dame</span>, <span property="addressRegion">IN</span> <span property="postalCode">46556</span> <span property="addressCountry">USA</span>
+          </span>
+          
+          
+          
+        </p>
+        <nav class="social" aria-label="Social media navigation" vocab="">
+          <ul>
+            
+            
+            
+            
+            
+          </ul>
+        </nav>
+      </div>
+      <div property="logo" typeof="ImageObject"><meta property="url" content="https://static.nd.edu/images/webclips/default/webclip-60.png"></div>
+      <p class="copyright"><a href="https://www.nd.edu/copyright/">&copy; 2021</a> <a href="https://www.nd.edu">University of Notre Dame</a></p>
+    </div>
+    <div class="footer-parent" property="parentOrganization" typeof="CollegeOrUniversity" resource="#parentorg">
+      <meta property="name" content="University of Notre Dame">
+      <a href="https://www.nd.edu/" class="mark-footer" property="url logo" typeof="ImageObject" aria-label="University of Notre Dame">
+        <img src="https://static.nd.edu/images/marks/gray/ndmark.svg" width="250" height="60" loading="lazy" alt="University of Notre Dame" property="url">
+      </a>
+      <div class="footer-parent-links">
+        <nav aria-label="Footer links navigation">
+          <ul class="footer-links">
+            <li><a href="https://search.nd.edu/">Search</a></li>
+            <li><a href="https://mobile.nd.edu/">Mobile App</a></li>
+            <li><a href="https://news.nd.edu/">News</a></li>
+            <li><a href="https://events.nd.edu/">Events</a></li>
+            <li><a href="https://www.nd.edu/visit/">Visit</a></li>
+            <li><a href="https://www.nd.edu/about/accessibility/">Accessibility</a></li>
+          </ul>
+        </nav>
+        <nav class="social" aria-label="Social media navigation" vocab="">
+          <ul>
+            <li><a class="soc-facebook" href="https://www.facebook.com/notredame/" rel="noopener"><svg class="icon" data-icon="facebook" width="16" height="16"><use xlink:href="#icon-facebook"></use></svg> Facebook</a></li>
+            <li><a class="soc-twitter" href="https://twitter.com/NotreDame/" rel="noopener"><svg class="icon" data-icon="twitter" width="16" height="16"><use xlink:href="#icon-twitter"></use></svg> Twitter</a></li>
+            <li><a class="soc-instagram" href="https://www.instagram.com/notredame/" rel="noopener"><svg class="icon" data-icon="instagram" width="16" height="16"><use xlink:href="#icon-instagram"></use></svg> Instagram</a></li>
+            <li><a class="soc-youtube" href="https://www.youtube.com/user/NDdotEDU" rel="noopener"><svg class="icon" data-icon="youtube" width="16" height="16"><use xlink:href="#icon-youtube"></use></svg> YouTube</a></li>
+            <li><a class="soc-linkedin" href="https://www.linkedin.com/school/university-of-notre-dame/" rel="noopener"><svg class="icon" data-icon="linkedin" width="16" height="16"><use xlink:href="#icon-linkedin"></use></svg> LinkedIn</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </footer>
+</div><!-- .wrapper -->
+<nav id="navbar" class="navbar nav-top" role="navigation"></nav>
+<script src="/javascripts/themes/ndt/v3/ndt.js"></script>
+<script src="/javascripts/jquery.1600091309.js"></script>
+<script src="/javascripts/site.1600091309.js"></script>
 
-    </body>
+</body>
+</html>
     
 </html>
