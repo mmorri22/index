@@ -51,5 +51,5 @@ p.outline_bgw {
 	color: rgb(255,255,255);
 	font-family: "Times New Roman", Garamond, serif;
 	text-align: center;
-	width: 100%;
+	/* width: 100%; */
 }
